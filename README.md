@@ -42,11 +42,7 @@ Once the PCAP is loaded:
 - You can see the decrypted HTTP data in the packet details
 - Right-click on a packet → **Follow → HTTP Stream** to see the full conversation
 
-## What You'll Learn
 
-- How to decrypt HTTPS traffic in Wireshark using pre-master secret keys
-- Analyzing encrypted network traffic
-- Understanding SSL/TLS handshakes and encrypted data flows
 
 ## Note
 
@@ -100,5 +96,4 @@ This is a practical skill for cybersecurity professionals, network administrator
 
 ---
 
-**Ready to get started?** Check out `README-INSTALLATION.md` for setup instructions.
 
